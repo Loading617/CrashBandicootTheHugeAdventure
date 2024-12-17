@@ -1,5 +1,5 @@
 <p align="center">
-<img src="crashbandicootthehugeadventure" width="1024" height="1024" alt="Crash Bandicoot: The Huge Adventure">
+<img src="crashbandicootthehugeadventure.jpg" width="1024" height="1024" alt="Crash Bandicoot: The Huge Adventure">
 </p>
 
 
